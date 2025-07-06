@@ -1,0 +1,5 @@
+!regolith.wallpaper.file: /usr/share/backgrounds/contest/noble.xml
+!regolith.lockscreen.wallpaper.file: /usr/share/backgrounds/contest/noble.xml
+regolith.wallpaper.file: /usr/share/backgrounds/contest/noble.xml
+regolith.lockscreen.wallpaper.file: /usr/share/backgrounds/contest/noble.xml
+regolith.look.path: /usr/share/regolith-look/dracula
