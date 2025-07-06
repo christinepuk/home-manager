@@ -12,6 +12,7 @@
     pkgs.vim
     pkgs.curl
     pkgs.anki
+    pkgs.rambox
 
 
     # # It is sometimes useful to fine-tune packages, for example, by applying

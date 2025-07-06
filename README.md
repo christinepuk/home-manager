@@ -5,10 +5,17 @@
 - https://ghedam.at/24353/tutorial-getting-started-with-home-manager-for-nix
 - https://regolith-desktop.com/docs/using-regolith/install/
 
+## todo
+- bash aliases 
+- i3 configs
+
 ## manual
 - login firefox
 - login password manager
 - add ssh key 
+- set kagi default, update layout firefox
+- install rambox https://rambox.app/download-windows/
+- install beeper https://www.beeper.com/download
 
 ## shell
 ```
