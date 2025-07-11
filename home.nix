@@ -13,6 +13,10 @@
     pkgs.curl
     pkgs.anki
     pkgs.rambox
+    pkgs.gnome-remote-desktop
+    pkgs.direnv
+    pkgs.keychain
+#    pkgs.openssh-server
 
 
     # # It is sometimes useful to fine-tune packages, for example, by applying
@@ -37,6 +41,7 @@
     # # symlink to the Nix store copy.
     ".tmuxrc".source = dotfiles/tmuxrc;
     ".vimrc".source = dotfiles/vimrc;
+    ".bash_aliases".source = dotfiles/bash_aliases;
 
     ".config/regolith3" = {
         source = config.lib.file.mkOutOfStoreSymlink dotfiles/i3;

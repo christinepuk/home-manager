@@ -20,7 +20,7 @@
 ## shell
 ```
 # basic
-sudo apt install vim curl
+sudo apt install vim curl openssh-server
 
 # setup i3
 ### follow https://regolith-desktop.com/docs/using-regolith/install/
@@ -42,6 +42,7 @@ home-manager switch
 ```
 
 ## reference
+- https://medium.com/itversity/how-to-set-up-rdp-on-ubuntu-24-04-for-remote-access-b008411727b7
 - https://www.reddit.com/r/NixOS/comments/z11yji/example_starter_configs/ | Example Starter Configs : r/NixOS
 - https://github.com/Panadestein/nixos-config | GitHub - Panadestein/nixos-config: A minimalist NixOS config
 - https://github.com/baitinq/nixos-config | GitHub - Baitinq/nixos-config: My Personal Nix/NixOS Configuration.
